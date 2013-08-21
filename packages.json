@@ -16,28 +16,6 @@
             ]
         },
         {
-            "name": "GoogleClosureCompiler",
-            "description": "Google Closure Compiler for Sublime Text 2/3 Build Systems",
-            "labels": ["build system"],
-            "details": "https://github.com/kairyou/SublimeGoogleClosureCompiler",
-            "releases": [
-                {
-                    "details": "https://github.com/kairyou/SublimeGoogleClosureCompiler/tree/master"
-                }
-            ]
-        },
-        {
-            "name": "YUICompressor",
-            "description": "YUI Compressor for ST2/ST3",
-            "labels": ["build system"],
-            "details": "https://github.com/kairyou/SublimeYUICompressor",
-            "releases": [
-                {
-                    "details": "https://github.com/kairyou/SublimeYUICompressor/tree/master"
-                }
-            ]
-        },
-        {
             "name": "SublimeSimpleSync",
             "description": "Simple ST2/ST3 plugin for synchronize local and remote files",
             "author": "tnhu, gfreezy, kairyou",
