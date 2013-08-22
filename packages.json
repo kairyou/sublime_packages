@@ -22,9 +22,8 @@
             "details": "https://github.com/kairyou/SublimeSimpleSync",
             "releases": [
                 {
-                    "date": "2013-08-21 08:00:00",
-                    "version": "1.0.2",
-                    "url": "https://github.com/kairyou/SublimeSimpleSync/archive/master.zip"
+                    "sublime_text": "*",
+                    "details": "https://github.com/kairyou/SublimeSimpleSync/tags"
                 }
             ]
         }
