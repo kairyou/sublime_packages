@@ -8,6 +8,7 @@
             "homepage": "https://github.com/kairyou/SublimeTmpl",
             "labels": ["file creation"],
             "details": "https://github.com/kairyou/SublimeTmpl",
+            "donate": "https://www.paypal.me/kairyou",
             "releases": [
                 {
                     "sublime_text": "*",
@@ -20,6 +21,7 @@
             "description": "Simple ST2/ST3 plugin for synchronize local and remote files",
             "author": "tnhu, gfreezy, kairyou",
             "details": "https://github.com/kairyou/SublimeSimpleSync",
+            "donate": "https://www.paypal.me/kairyou",
             "releases": [
                 {
                     "sublime_text": "*",
